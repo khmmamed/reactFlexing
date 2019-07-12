@@ -1,9 +1,5 @@
-import React, {Component} from 'react'
+import { Box } from "./Box";
+import { Flex } from "./Flex";
 
-export default class extends Component {
-  render() {
-    return <div>
-      <h2>Welcome to React components</h2>
-    </div>
-  }
-}
+export default Flex;
+export { Box };

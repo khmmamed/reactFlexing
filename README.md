@@ -3,8 +3,18 @@
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
+[![khm@med]][khm@med]
 
-Describe reactflexing here.
+build your website easy with reactflexing using flexbox 
+
+# HOW TO INSTALL :
+
+Coming Soon
+
+# HOW TO USE IT :
+
+Coming Soon
+
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
