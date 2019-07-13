@@ -24,4 +24,4 @@ Coming Soon
 
 [coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/user/repo
-[khm@med] : http://Comming-Soon
+[khm@med]: http://Comming-Soon
