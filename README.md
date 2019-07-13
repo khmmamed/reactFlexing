@@ -3,7 +3,6 @@
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
-[![khm@med]][khm@med]
 
 build your website easy with reactflexing using flexbox 
 
@@ -24,4 +23,3 @@ Coming Soon
 
 [coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/user/repo
-[khm@med]: http://Comming-Soon
