@@ -1,7 +1,7 @@
 {
   "name": "reactflexing",
-  "version": "0.0.0beta",
-  "description": "reactflexing React component",
+  "version": "0.0.1",
+  "description": "reactflexing React component to build your website easy with reactflexing using flexbox ",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -37,6 +37,11 @@
     "url": "https://github.com/khmmamed/reactflexing.git"
   },
   "keywords": [
-    "react-component"
+    "react-component",
+    "react",
+    "component",
+    "flex",
+    "flexbox",
+    "box"
   ]
 }

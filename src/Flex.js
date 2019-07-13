@@ -20,7 +20,6 @@ export const Flex = ({ children, row, flow, wrap, ...props }) => (
   <BoxContainer
     row={row}
     flow={flow}
-    flexDirextion={flexDirextion}
     wrap={wrap}
     {...props}
   >
